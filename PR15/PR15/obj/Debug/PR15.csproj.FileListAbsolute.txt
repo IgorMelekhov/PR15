@@ -1,0 +1,15 @@
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\bin\Debug\PR15.exe.config
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\bin\Debug\PR15.exe
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\bin\Debug\PR15.pdb
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\obj\Debug\PR15.csproj.AssemblyReference.cache
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\obj\Debug\PR15.exe
+C:\Users\79537\source\repos\Новая папка (2)\PR15\PR15\obj\Debug\PR15.pdb
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\bin\Debug\PR15.exe.config
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\bin\Debug\PR15.exe
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\bin\Debug\PR15.pdb
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\obj\Debug\PR15.csproj.AssemblyReference.cache
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\obj\Debug\PR15.csproj.SuggestedBindingRedirects.cache
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\obj\Debug\PR15.csproj.CoreCompileInputs.cache
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\obj\Debug\PR15.exe
+D:\Users\1213-2\Documents\2-ИСП\Новая папка (5)\PR15\PR15\obj\Debug\PR15.pdb
